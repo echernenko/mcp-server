@@ -1,5 +1,3 @@
-# How to add to Claude?
-
 ## Streamable variation (current)
 
 start a server
