@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "jokes": {
-      "type": "sse",
-      "url": "http://24.199.101.23:3000/sse"
-    }
-  }
-}
